@@ -1,9 +1,9 @@
 {
-  "name": "my-component",
-  "version": "0.0.1",
-  "description": "Stencil Component Starter",
+  "name": "nextflow-counter",
+  "version": "0.0.2",
+  "description": "A example web component, as a number counter, built with stencil",
   "module": "dist/esm/index.js",
-  "main": "dist/index.js",
+  "main": "dist/mycomponent.js",
   "types": "dist/types/components.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "files": [
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-component-starter.git"
+    "url": "git+https://github.com/teerasej/stencil-simple-counter-component"
   },
   "author": "Ionic Team",
   "license": "MIT",
