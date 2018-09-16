@@ -1,6 +1,6 @@
 {
   "name": "nextflow-counter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A example web component, as a number counter, built with stencil",
   "module": "dist/esm/index.js",
   "main": "dist/nextflowcomponent.js",
